@@ -1,0 +1,11 @@
+Area Sampled:
+
+    Manchester and surrounding areas
+    MinLat="53.237" MinLon="-2.588"
+    MaxLat="53.672" MaxLon="-1.877"
+
+Source: https://mapzen.com/data/metro-extracts/metro/manchester_england
+
+Manchester is a major city in the northwest of England with a rich industrial heritage.
+ 
+I've chosen Manchester as it's an area I have visited many times and wish to live there at some point in my life.
